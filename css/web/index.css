@@ -1,0 +1,40 @@
+body { background-color:#ffffff}		
+.header {background-color:#ffffff}
+
+h1 { font: normal 25px/30px Open Sans;  color:#333333; }
+h2 { font: normal 22px/28px Open Sans;  color:#333333; }
+h3 { font: normal 18px/22px Open Sans;  color:#333333; }
+h4 { font: normal 15px/19px Open Sans;  color:#333333; }
+h5 { font: normal 13px/19px Open Sans;  color:#333333; }
+h6 { font: normal 13px/19px Open Sans;  color:#333333; }
+.main-holder { font: normal 13px/19px Open Sans;  color:#a1a1a1; }
+.logo_h__txt, .logo_link { font: bold 60px/65px Open Sans;  color:#333333; }
+.sf-menu > li > a { font: normal 20px/50px Open Sans;  color:#333333; }
+.nav.footer-nav a { font: normal 13px/19px Open Sans;  color:#333333; }
+.categories {
+	margin: 5px;	
+}
+.space-top {
+	margin-top: 20px; 
+}
+
+.form-serach-pr {
+	margin-top: 10px; 
+	padding: 3px;
+}
+
+.footer-fisrt {
+	margin-right:10px;
+	}
+	.footer-separado {
+	marg	
+	}
+	
+.footer-align {
+	text-align:center;
+}
+.redes {
+	margin-top:20px;
+	
+	
+}
