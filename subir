@@ -1,11 +1,13 @@
 #!/bin/ksh
 
 echo " "
-echo -c "Ingresa el mensaje nuevo: "; read mensaje
+echo "Ingresa el mensaje nuevo: "; read -c mensaje
+echo " "
 echo $mensaje
+pause
 
 git add . 
-git commit -m $mensaje 
+git commit -m '$mensaje' 
 git pull origin master
 git push origin master
 
