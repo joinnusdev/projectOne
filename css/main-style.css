@@ -2548,3 +2548,28 @@ button.btn.btn-mini, input[type="submit"].btn.btn-mini {
 	color:#333;
 	text-decoration:none;
 }
+#titulo_faq {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 23px;
+	font-style: normal;
+	font-weight: bold;
+	color: #0084ce;
+	float: left;
+	height: 60px;
+	width: 800px;
+	margin-top: 30px;
+	margin-left:20px;
+	list-style:none;
+}
+#contenido_faq {
+	float:left;
+	margin-top:15px;
+	margin-left:0px;
+	width:800px;
+		
+}
+#texto_faq{
+	margin-top:22px;
+	
+	
+}

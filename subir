@@ -3,8 +3,6 @@
 echo " "
 echo -n "Ingresa el mensaje nuevo: "; read mensaje
 echo " "
-echo $mensaje
-read 
 
 git add . 
 git commit -m "$mensaje" 

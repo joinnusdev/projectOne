@@ -7,6 +7,7 @@ h3 { font: normal 18px/22px Open Sans;  color:#333333; }
 h4 { font: normal 15px/19px Open Sans;  color:#333333; }
 h5 { font: normal 13px/19px Open Sans;  color:#333333; }
 h6 { font: normal 13px/19px Open Sans;  color:#333333; }
+h7 { font: normal 20px/25px Open Sans;  color:#0084ce; }
 .main-holder { font: normal 13px/19px Open Sans;  color:#a1a1a1; }
 .logo_h__txt, .logo_link { font: bold 60px/65px Open Sans;  color:#333333; }
 .sf-menu > li > a { font: normal 20px/50px Open Sans;  color:#333333; }
@@ -36,5 +37,15 @@ h6 { font: normal 13px/19px Open Sans;  color:#333333; }
 .redes {
 	margin-top:20px;
 	
+	
+}
+.faq {
+	width:850px;
+	height:900px;
+	background-color:#fff;
+	border: solid #E1E1E1 2px;
+	float:left;
+	margin-top:15px;
+	margin-left:20px;
 	
 }
