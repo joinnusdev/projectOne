@@ -1,0 +1,13 @@
+#!/bin/ksh
+
+echo "Ingresa el mensaje nuevo: "; read mensaje
+echo $mensaje
+
+git add . 
+git commit -m $mensaje 
+git pull origin master
+git push origin master
+
+echo "LISTO!"
+echo " "
+
